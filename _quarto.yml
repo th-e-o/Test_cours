@@ -9,7 +9,7 @@ website:
   page-navigation: true
   title: "Template for training resources in Python"
   site-url: "https://th-e-o.github.io/Test_cours"
-  repo-url: "https://github.com/th-e-o/Test_cours"
+  repo-url: "https://th-e-o.github.io/Test_cours"
   repo-actions: [edit, source, issue]
   sidebar:
     search: true
